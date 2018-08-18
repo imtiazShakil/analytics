@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <parent>
+  <groupId>org.aai.analytics</groupId>
+  <artifactId>analyzer</artifactId>
+  <version>1.0-0</version>
+</parent>
+
+    <artifactId>keyword-extractor</artifactId>
+    <packaging>jar</packaging>
+    <version>1.0-0</version>
+	<name>Keyword Extractor</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.aai.analytics</groupId>
+            <artifactId>utils</artifactId>
+            <version>1.0-0</version>
+        </dependency>
+
+    </dependencies>
+
+</project>
