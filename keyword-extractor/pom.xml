@@ -34,6 +34,24 @@
             <version>1.0-0</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.aai.analytics</groupId>
+            <artifactId>stemmer</artifactId>
+            <version>1.0-0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.aai.analytics</groupId>
+            <artifactId>stopword-remover</artifactId>
+            <version>1.0-0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.aai.analytics</groupId>
+            <artifactId>language-checker</artifactId>
+            <version>1.0-0</version>
+        </dependency>
+
     </dependencies>
 
 </project>

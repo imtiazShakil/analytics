@@ -232,7 +232,6 @@ public class CharArrayMap<V> extends AbstractMap<Object,V> {
     for(int i=0; i<oldkeys.length; i++) {
       char[] text = oldkeys[i];
       if (text != null) {
-        // todo: could be faster... no need to compare strings on collision
         final int slot = getSlot(text,0,text.length);
         keys[slot] = text;
         values[slot] = oldvalues[i];

@@ -49,6 +49,7 @@ public class StopwordFilter {
 
                 line = br.readLine();
             }
+            log.info("Stopword loaded!");
         } catch (IOException ex) {
             log.error(ex.getMessage(), ex);
             return;

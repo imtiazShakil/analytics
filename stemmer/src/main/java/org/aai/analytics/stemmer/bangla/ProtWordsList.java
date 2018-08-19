@@ -41,7 +41,7 @@ public class ProtWordsList {
 		}
 		br.close();
 		is.close();
-		log.trace("Protected words list is loaded.");
+		log.info("Protected words list is loaded.");
 	}
 
 	public static boolean isProtectedWord(String word) {
