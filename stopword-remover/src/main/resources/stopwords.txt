@@ -10,6 +10,7 @@
 অবধি
 অবশ্য
 অর্থাত
+অর্থাৎ
 আই
 আগামী
 আগে
@@ -97,6 +98,7 @@
 কত
 কবে
 কমনে
+কর
 করছে
 করছেন
 করতে
@@ -217,6 +219,7 @@
 তেমনই
 তো
 তোমার
+থাকত
 থাকবে
 থাকবেন
 থাকা
@@ -251,6 +254,7 @@
 দ্বারা
 ধরা
 ধরে
+ধা
 ধামার
 নতুন
 না
@@ -323,6 +327,7 @@
 বেশি
 ব্যবহার
 ব্যাপারে
+ভাই
 ভাবে
 ভাবেই
 ভালই
@@ -445,6 +450,7 @@ above
 abroad
 according
 accordingly
+achey
 across
 actually
 adj
@@ -452,6 +458,7 @@ after
 afterwards
 again
 against
+agee
 ago
 ahead
 ain't
@@ -467,10 +474,15 @@ also
 although
 always
 am
+amader
+amar
+ameen
+ami
 amid
 amidst
 among
 amongst
+amra
 an
 and
 another
@@ -483,6 +495,9 @@ anyway
 anyways
 anywhere
 apart
+apnader
+apnara
+apni
 appear
 appreciate
 appropriate
@@ -502,6 +517,7 @@ b
 back
 backward
 backwards
+baki
 be
 became
 because
@@ -516,12 +532,15 @@ behind
 being
 believe
 below
+bepare
 beside
 besides
 best
 better
 between
 beyond
+bhai
+boi
 both
 brief
 but
@@ -568,6 +587,7 @@ did
 didn't
 different
 directly
+diye
 do
 does
 doesn't
@@ -584,6 +604,10 @@ eg
 eight
 eighty
 either
+ekhan
+ekhane
+ekhon
+ekta
 else
 elsewhere
 end
@@ -592,6 +616,7 @@ enough
 entirely
 especially
 et
+eta
 etc
 even
 ever
@@ -641,6 +666,8 @@ gone
 got
 gotten
 greetings
+gula
+gulo
 h
 had
 hadn't
@@ -673,10 +700,14 @@ him
 himself
 his
 hither
+hobe
+hocche
 hopefully
+hote
 how
 howbeit
 however
+hoy
 hundred
 i
 i'd
@@ -697,6 +728,7 @@ indicate
 indicated
 indicates
 inner
+inshaallah
 inside
 insofar
 instead
@@ -711,14 +743,27 @@ it's
 its
 itself
 j
+jay
+jonno
 just
 k
+kaaj
+karo
 keep
 keeps
+keno
 kept
+kichu
+kina
 know
 known
 knows
+kora
+kore
+koriyeche
+korte
+kotha
+kuno
 l
 last
 lately
@@ -734,6 +779,7 @@ like
 liked
 likely
 likewise
+likha
 little
 look
 looking
@@ -773,6 +819,7 @@ mustn't
 my
 myself
 n
+naa
 name
 namely
 nd
@@ -789,8 +836,10 @@ neverless
 nevertheless
 new
 next
+neya
 nine
 ninety
+niye
 no
 no-one
 nobody
@@ -838,6 +887,7 @@ over
 overall
 own
 p
+pare
 particular
 particularly
 past
@@ -846,6 +896,7 @@ perhaps
 placed
 please
 plus
+pore
 possible
 presumably
 probably
@@ -893,6 +944,7 @@ sent
 serif
 serious
 seriously
+seta
 seven
 several
 shall
@@ -931,9 +983,11 @@ t's
 take
 taken
 taking
+tara
 tell
 tends
 th
+thakle
 than
 thank
 thanks
@@ -946,6 +1000,7 @@ thats
 the
 their
 theirs
+theke
 them
 themselves
 then
@@ -1020,6 +1075,8 @@ using
 usually
 uucp
 v
+vabe
+vai
 value
 various
 versus
